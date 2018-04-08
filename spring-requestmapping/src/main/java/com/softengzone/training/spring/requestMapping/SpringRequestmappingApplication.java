@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * Spring Core 4.3 exam preparation
- * @author Krzysztof Anczyk
+ * @author kanczyk
  */
 
 @SpringBootApplication
